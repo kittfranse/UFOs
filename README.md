@@ -1,2 +1,2 @@
 # UFOs
-Javascript and Bootstrap for a dynamic webpage
+Javascript and Bootstrap (HTML) for a dynamic webpage and interactive dashboard.
